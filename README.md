@@ -48,9 +48,9 @@ Make sure you have all these components ready before proceeding.
 
 ## Circuit Diagram
 
-![Circuit Diagram](https://www.tinkercad.com/things/iuqoMybtrDk)
+![Circuit Diagram](/images/circuitDiagram.jpg)
 
-Please refer to the provided circuit diagram for wiring instructions. Ensure that all connections are secure and that safety precautions are followed when working with electrical components.
+Please refer to the provided circuit diagram for wiring instructions. Ensure that all connections are secure and that safety precautions are followed when working with electrical components.foll the link for circuit diagram https://www.tinkercad.com/things/iuqoMybtrDk.
 
 ---
 
